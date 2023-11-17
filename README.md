@@ -5,9 +5,9 @@ Este es un ejemplo de aplicacion de uso de autenticacion y autorizacion en un ap
 
 A pesar de ser una aplicacion sencilla se mantiene una estructura facil  de leer, y facil de implementar en cualquier otro proyecto.
 
-##Informacion
+## Informacion
 - NetCore 6
 
 
-##Dependencias
+## Dependencias
  - Microsoft.AspNetCore.Authenticaction.JwtBearer
